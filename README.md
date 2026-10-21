@@ -4,7 +4,14 @@ Registration and participant management system for the **São Francisco das Chag
 
 **Live:** [ejcsfc.org](https://ejcsfc.org)
 
-![Home](screenshots/home.png)
+| Public home | Admin dashboard |
+|---|---|
+| ![Home](screenshots/home.png) | ![Admin dashboard](screenshots/admin-dashboard.png) |
+
+### Participant cards
+![Participants](screenshots/participants.png)
+
+*Names, phone numbers, neighborhoods and photos in the screenshots were replaced with placeholders to protect participants' privacy.*
 
 ## Features
 
